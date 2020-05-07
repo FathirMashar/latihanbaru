@@ -10,7 +10,7 @@ class Latihan : SQLiteOpenHelper {
 
     override fun onCreate(db: SQLiteDatabase?) {
         TODO("Not yet implemented")
-        
+
     }
 
     override fun onUpgrade(db: SQLiteDatabase?, oldVersion: Int, newVersion: Int) {
