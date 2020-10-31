@@ -1,3 +1,3 @@
 # latihanbaru
 
-## Ini adalah project untuk latihan baru
+## Ini adalah project untuk latihanbaru
